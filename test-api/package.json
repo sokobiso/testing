@@ -1,0 +1,14 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "project for testing postman",
+  "directories": {"test":"api"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meryem",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^4.3.1"
+  }
+}
